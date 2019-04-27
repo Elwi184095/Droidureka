@@ -1,0 +1,180 @@
+
+
+.mainLogo {
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+body {
+     background-image:url(back3.jpg)
+}
+.imgText {
+ position:absolute;
+    top:29%;
+    left:42.001%;
+  color: #AA6EBD;
+    text-align: center;
+  text-shadow: 1.2px #000; 
+}
+#map{
+        float:left;
+        padding:100px;
+    position:relative;
+        
+    }
+s
+#mainLogo{
+     height = "250 px";
+    width = "500 px";
+}
+
+#FirstImage {
+     height = "250 px";
+    width = "250 px";
+}
+
+@media screen and (max-width: 580px){
+#navBar {
+	margin:10px;
+    width:1500px;
+	font-family: serif;
+}
+}
+#navBar li {
+	display:block;
+	width:179px;
+	float:left;
+	margin-left:5px;
+	border: 1px solid #000;
+}
+
+#navBar a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color: coral;
+	color: white;
+}
+
+#navBar a:hover {
+	background-color:orange;
+	color:#000;
+}
+
+.centerPiece {
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding:4px;
+   border:2px solid #021a40;
+}
+
+#firstH1 {font-family: serif;
+margin-top:5px;
+color:lemonchiffon;
+}
+
+#secondH1 {text-align: center;
+color: white;}
+
+#firstP {font-size: 20px;
+color:lemonchiffon;
+}
+
+.bottomPiece{
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.containerBottomPiece{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.bottomPieceText {position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+font-family: fantasy;
+opacity: 0.4}
+
+#blogH1 {
+    text-align: center;
+    color: White;
+    position: relative;
+    top: auto;
+    right:auto;
+    bottom:auto;
+    left:auto;
+}
+
+#blogLink a{
+      color: black;
+    text-decoration: none;
+}
+#blogLink {
+      color: black;
+    text-decoration: none;
+}
+
+#blogLink a:visited {
+    color: dimgrey;
+}
+
+#bloglink a:hover {
+    color: darkslategray;
+}
+
+#contactH1 {
+    text-align: center;
+    color: white;
+
+}
+
+
+#podcastsH2 {
+    color: black;
+}
+
+#previewsH1 {
+    text-align: center;
+    color: black;
+    position: relative;
+    top: auto;
+    right:auto;
+    bottom:auto;
+    left:auto;
+}
+
+#ANAFIimg {
+    width: 890px;
+    height: 500px;
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding:4px;
+   
+}
+
+#firstpreviewsP{
+  font-size: 40px;
+color:black;
+    font-family: serif; 
+}
+
+.firstaboutP{
+    font-size: 30px;
+color:black;
+    font-family: serif; 
+}
